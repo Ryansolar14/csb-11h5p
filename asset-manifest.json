@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://ryansolar14.github.io/csb-11h5p/static/js/main.16ac5906.chunk.js",
+    "main.js.map": "https://ryansolar14.github.io/csb-11h5p/static/js/main.16ac5906.chunk.js.map",
+    "runtime-main.js": "https://ryansolar14.github.io/csb-11h5p/static/js/runtime-main.5a5e55ea.js",
+    "runtime-main.js.map": "https://ryansolar14.github.io/csb-11h5p/static/js/runtime-main.5a5e55ea.js.map",
+    "static/js/2.97bd378f.chunk.js": "https://ryansolar14.github.io/csb-11h5p/static/js/2.97bd378f.chunk.js",
+    "static/js/2.97bd378f.chunk.js.map": "https://ryansolar14.github.io/csb-11h5p/static/js/2.97bd378f.chunk.js.map",
+    "index.html": "https://ryansolar14.github.io/csb-11h5p/index.html",
+    "precache-manifest.8e367e7ee701be7e6ad8761ca494fedf.js": "https://ryansolar14.github.io/csb-11h5p/precache-manifest.8e367e7ee701be7e6ad8761ca494fedf.js",
+    "service-worker.js": "https://ryansolar14.github.io/csb-11h5p/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a5e55ea.js",
+    "static/js/2.97bd378f.chunk.js",
+    "static/js/main.16ac5906.chunk.js"
+  ]
+}
